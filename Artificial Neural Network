@@ -3,3 +3,8 @@ Artificial Neural Network
 The task to be performed is to construct an artificial neural network that takes into account all independent variables and predict whether or not our 
 customer will leave the bank.
 
+Artificial Neural Network use the artificial neurons or nodes for solving the learning problem.An input layer, numerous hidden layers, and an output layer make up 
+these layers. Each node in one layer is connected to the nodes in the next layer. By increasing the number of hidden layers, we can make the network deeper.
+An input layer, numerous hidden layers, and an output layer make up these layers. Each node in one layer is connected to the nodes in the next layer. 
+By increasing the number of hidden layers, we can make the network deeper.
+
