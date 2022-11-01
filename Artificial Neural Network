@@ -8,3 +8,18 @@ these layers. Each node in one layer is connected to the nodes in the next layer
 An input layer, numerous hidden layers, and an output layer make up these layers. Each node in one layer is connected to the nodes in the next layer. 
 By increasing the number of hidden layers, we can make the network deeper.
 
+We can apply ANN to any possible tasks
+-- classification
+-- numeric prediction
+-- unserupervised pattern recognisation
+
+Articifical neural network can be used where input and output is very simple but the tasks performed inside is very complex.
+
+Biological neurons
+
+Their are the inputs as per the number of features how many features are their yhose are considered as the input.
+
+Then their is a weight that is associated with each input and the weigth tell us what is the importance of the particular feature i.e how important is the tasks. 
+
+Then we have the activation function i.e we can say the threshold at which this threshold is attained at this particular time the signal will pass and it will 
+produce the output.
